@@ -10,7 +10,7 @@ I then spent another week refining it only to then realize I had been working wi
 # 3D Model Summary
 
 ### Lower_Poly_Dugga
-![Lower polygon count 3D model](https://github.com/DoctorWhoFan1234/Dugga-Doo-3D-Model/blob/main/lower_poly_dugga/preview_images/preview.gif)
+![Lower polygon count 3D model](https://github.com/DoctorWhoFan1234/Dugga-Doo-3D-Model/blob/main/lower_poly_dugga/preview_images/low_poly_preview.gif)
 
 This 3D model has 2,337 vertices and doesn't look too great if I'm being honest, but this was my first time remeshing, and these were the automatic results with very few modifications. Okay, I'd prefer if somebody else remesh the high poly version to replace this with a more accurate low poly version.
 
@@ -29,7 +29,7 @@ Here is the solid mesh fur variation, at 246,882 vertices:<br>
 <br>
 
 ### Video_Dugga
-![Rough video version of the 3D model](https://github.com/DoctorWhoFan1234/Dugga-Doo-3D-Model/blob/main/original_dugga/preview_images/preview.gif)
+![Rough video version of the 3D model](https://github.com/DoctorWhoFan1234/Dugga-Doo-3D-Model/blob/main/video_dugga/preview_images/preview.gif)
 
 This was the first model I made, and the one I used for the video. It's quite rough, with its [insert number] vertices, it really doesn't match the official 3D model that well, and the head is an entirely separate object from the body, but it worked. Also I adjusted the mouth and eyes a bunch throughout the video so this version only truly matches the Dugga Doo found in the electric guitar segment.
 
